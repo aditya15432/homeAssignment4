@@ -1,8 +1,3 @@
-# homeAssignment4
-This assignment is part of the coursework for CS5720 and focuses on advanced topics in deep learning from Chapters 11 and 12 of the course materials. It demonstrates both theoretical understanding and practical implementation of core neural network concepts.
-
-Topics Covered:
-GAN Architecture & Adversarial Training
 
 Detailed explanation of the Generative Adversarial Network (GAN) process.
 
